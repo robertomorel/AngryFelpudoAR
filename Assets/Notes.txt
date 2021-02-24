@@ -1,0 +1,14 @@
+- Anotações -
+
+1. No sprite (2D and UI), podemos utilizar a funcionalidade "Sprite Editor"
+    - Com ela, conseguimos fazer recortes nas imagens
+
+2. Para ampliar uma imagem em 2D, podemos aumentar os Pixels per Unit
+    - Melhor do que redimencionar 
+
+3. Physics Material
+    - Friction: para o rigidbody 2D ir parando após lançado      
+
+4. Componente Spring Join 2D    
+    - Junta para esticar 
+    - Cria uma linha verde conectado do pivot do objeto até o pivot de outro objeto parametrizado no "Connected Rigid Body"
